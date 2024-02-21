@@ -1,5 +1,12 @@
 # Bike-Share-Prediction
 
+# Libraries used for this project
+![Python Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/python.svg) <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg" alt="Jupyter Notebook Logo" width="59" height="30"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg" alt="Spyder Logo" width="59" height="30"> 
+![Numpy logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/numpy.svg)
+![pandas logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/pandas.svg)
+![scikitlearn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/scikit.svg) <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/flask.svg" alt="flask Logo" width="59" height="30">
+
+
 This case study is about a bike rental shop. They want to predict the demand of bikes at any given hour of the day, so that, they can arrange for sufficient number of bike for the customers.
 
 # Dataset Description
@@ -114,15 +121,15 @@ $ pip install -U Flask
 # Screenshots
 
 # Home Page
-<img src ="https://raw.githubusercontent.com/Dhavaltharkar/bike-share-prediction/main/markdown/home.png">
+<img src ="https://raw.githubusercontent.com/Dhavaltharkar/Bike_Share_Demand/main/markdown/home.png">
 
 # About Page
-<img src ="https://raw.githubusercontent.com/Dhavaltharkar/bike-share-prediction/main/markdown/about.png">
+<img src ="https://raw.githubusercontent.com/Dhavaltharkar/Bike_Share_Demand/main/markdown/about.png">
 
 # Prediction Page
-<img src ="https://raw.githubusercontent.com/Dhavaltharkar/bike-share-prediction/main/markdown/prediction1.png">
-<img src ="https://raw.githubusercontent.com/Dhavaltharkar/bike-share-prediction/main/markdown/prediction2.png">
+<img src ="https://raw.githubusercontent.com/Dhavaltharkar/Bike_Share_Demand/main/markdown/prediction1.png">
+<img src ="https://raw.githubusercontent.com/Dhavaltharkar/Bike_Share_Demand/main/markdown/prediction2.png">
 
 # Contact Page
-<img src ="https://raw.githubusercontent.com/Dhavaltharkar/bike-share-prediction/main/markdown/contact.png">
-<img src ="https://raw.githubusercontent.com/Dhavaltharkar/bike-share-prediction/main/markdown/contact2.png">
+<img src ="https://raw.githubusercontent.com/Dhavaltharkar/Bike_Share_Demand/main/markdown/contact.png">
+<img src ="https://raw.githubusercontent.com/Dhavaltharkar/Bike_Share_Demand/main/markdown/contact2.png">

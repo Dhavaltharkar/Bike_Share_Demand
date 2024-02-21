@@ -6,6 +6,9 @@
 ![pandas logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/pandas.svg)
 ![scikitlearn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/scikit.svg) <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/flask.svg" alt="flask Logo" width="59" height="30">
 
+Click on Kaggle to view the code
+<a href = "https://www.kaggle.com/code/dhavaltharkar/bike-sharing-prediction-project"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/kaggle.png" alt="Kaggle Logo" width="59" height="20"> </a> 
+
 
 This case study is about a bike rental shop. They want to predict the demand of bikes at any given hour of the day, so that, they can arrange for sufficient number of bike for the customers.
 
